@@ -3,7 +3,8 @@ Machine Learning classification model implementing Random Forest algorithm, buil
 
 Model generates decision trees, and saves them into a Random Forest Object. The object is tested for accuracy and scrapped if does not meet the minimum accuracy requirement parameter. Model is trained off of 60% of the datset, and tested using the other 40% it has never been exposed to. 
 
-Feel free to clone this project and use it to generate an ML classificataion model for a problem you care about!
+Feel free to clone this project and use it to generate an ML classification model for a problem you care about!
+Follow the instructions within the Python files for how datasets should be formatted.
 
 # Example 1: ML Model with 95.08% Accuracy
 The first plot represents the actual species of certain flowers in the dataset, while the second is the Machine Learning predicted species. The model predicted species correctly 58 times and incorrectly 3 times in this example. 

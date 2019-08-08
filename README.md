@@ -5,6 +5,6 @@ Model generates decision trees, and saves them into a Random Forest Object. The 
 
 Feel free to clone this project and use it to generate an ML classificataion model for a problem you care about!
 
-# Example 1 ML Model with 95.08% Accuracy: 
+# Example 1: ML Model with 95.08% Accuracy
 The first plot represents the actual species of certain flowers in the dataset, while the second is the Machine Learning predicted species. In red are the incorrect predictions. The model predicted species correctly 58 times and incorrectly three times in this example. 
 

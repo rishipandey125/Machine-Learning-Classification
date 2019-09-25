@@ -14,4 +14,4 @@ The first plot represents the actual species of certain flowers in the dataset, 
 # Example 2: ML Model with 96.72% Accuracy
 The model predicted species correctly 59 times and incorrectly 2 times in this example. 
 
-![ML Classification Model Ex: 1](/iris_data/iris_test2.png)
+![ML Classification Model Ex: 2](/iris_data/iris_test2.png)
